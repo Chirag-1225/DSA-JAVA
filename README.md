@@ -9,6 +9,7 @@ My Data Structures and Algorithms (DSA) journey in Java.
 * Strings
 * Recursion
 * Hashing
+* Sorting
 
 ## Goal
 
