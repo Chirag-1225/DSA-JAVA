@@ -1,8 +1,8 @@
-package Strivers;
+
 
 import java.util.HashMap;
 
-public class hashingoperations {
+public class HashingOperations {
     public static void main(String[] args) {
         int arr [] = {1,2,3,2,1,3,4};
         HashMap<Integer, Integer>map = new HashMap<>();

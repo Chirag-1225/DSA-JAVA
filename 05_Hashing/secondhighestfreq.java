@@ -1,4 +1,4 @@
-package Strivers;
+
 
 import java.util.HashMap;
 
@@ -11,13 +11,11 @@ public class secondhighestfreq {
         }
         int maxFreq=0;
         int secondmaxfreq = 0;
-        int answer = -1;
         for(Integer key:map.keySet()){
             if(map.get(key)>maxFreq){
                 secondmaxfreq = maxFreq;
                 maxFreq = map.get(key);
                 
-                answer = key;
             }if(map.get(key)<maxFreq && map.get(key)>secondmaxfreq){
                 secondmaxfreq = map.get(key);
                 

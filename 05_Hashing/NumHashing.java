@@ -1,7 +1,7 @@
-package Strivers;
+
 import java.util.*;
 
-public class hashing {
+public class NumHashing {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

@@ -1,8 +1,8 @@
-package Strivers;
+
 
 import java.util.HashMap;
 
-public class firstrepeating {
+public class FirstRepeating {
     public static void main(String[] args) {
         int arr[] = {1,2,1,3,3,3,4,5,4};
         HashMap<Integer,Integer>map = new HashMap<>();

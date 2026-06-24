@@ -1,8 +1,8 @@
-package Strivers;
+
 
 import java.util.HashMap;
 
-public class highestfreqch {
+public class Highestfreqch {
     public static void main(String[] args) {
         String str = "aabbbccdde";
         HashMap<Character,Integer>map = new HashMap<>();

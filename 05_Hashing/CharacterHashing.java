@@ -1,5 +1,3 @@
-package Strivers;
-
 import java.util.Scanner;
 
 public class CharacterHashing {

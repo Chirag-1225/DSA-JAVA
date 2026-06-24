@@ -1,6 +1,6 @@
-package Strivers;
+
 import java.util.*;
-public class Maphashing {
+public class NumMaphashing {
 
     public static void main(String[] args) {
 

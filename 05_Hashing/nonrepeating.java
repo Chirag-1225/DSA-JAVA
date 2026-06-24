@@ -1,4 +1,4 @@
-package Strivers;
+
 import java.util.*;
 public class nonrepeating {
     public static void main(String[] args) {
